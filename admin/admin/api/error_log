@@ -1,0 +1,91 @@
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'food_name' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 39
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'food_images' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 52
+[04-Feb-2021 09:37:17 UTC] PHP Notice:  Array to string conversion in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 52
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 53
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'single_item_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 54
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'total_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 55
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'discount_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 56
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'id' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 35
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'table_id' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 36
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'food_name' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 39
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'food_images' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 52
+[04-Feb-2021 09:37:17 UTC] PHP Notice:  Array to string conversion in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 52
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 53
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'single_item_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 54
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'total_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 55
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'discount_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 56
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'id' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 35
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'table_id' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 36
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'food_name' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 39
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'food_images' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 52
+[04-Feb-2021 09:37:17 UTC] PHP Notice:  Array to string conversion in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 52
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'quantity' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 53
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'single_item_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 54
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'total_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 55
+[04-Feb-2021 09:37:17 UTC] PHP Warning:  Illegal string offset 'discount_price' in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 56
+[04-Feb-2021 09:45:43 UTC] PHP Warning:  Use of undefined constant result_sql - assumed 'result_sql' (this will throw an Error in a future version of PHP) in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 16
+[04-Feb-2021 09:59:19 UTC] PHP Notice:  Undefined variable: result_sql in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 17
+[04-Feb-2021 10:03:05 UTC] PHP Notice:  Undefined variable: result_sql in /home/certnet45/public_html/restro/admin/api/remove_cart_item_api.php on line 17
+[04-Feb-2021 10:20:48 UTC] PHP Notice:  Undefined index: quantity in /home/certnet45/public_html/restro/admin/api/update_cart_api.php on line 6
+[04-Feb-2021 10:21:07 UTC] PHP Notice:  Undefined index: quantity in /home/certnet45/public_html/restro/admin/api/update_cart_api.php on line 6
+[04-Feb-2021 10:21:40 UTC] PHP Notice:  Undefined index: quantity in /home/certnet45/public_html/restro/admin/api/update_cart_api.php on line 6
+[04-Feb-2021 10:22:23 UTC] PHP Notice:  Undefined index: quantity in /home/certnet45/public_html/restro/admin/api/update_cart_api.php on line 6
+[04-Feb-2021 10:22:53 UTC] PHP Notice:  Undefined index: quantity in /home/certnet45/public_html/restro/admin/api/update_cart_api.php on line 6
+[04-Feb-2021 10:24:06 UTC] PHP Notice:  Undefined index: quantity in /home/certnet45/public_html/restro/admin/api/update_cart_api.php on line 6
+[04-Feb-2021 13:05:52 UTC] PHP Notice:  Undefined variable: tables in /home/certnet45/public_html/restro/admin/api/cat_api.php on line 24
+[09-Feb-2021 12:17:30 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:17:32 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:17:33 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:17:34 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:19:58 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:20:08 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:23:23 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:23:34 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:24:18 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:24:43 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:25:08 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:28:58 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:29:04 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:29:20 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:31:14 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:31:55 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:32:23 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:32:36 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:33:09 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[09-Feb-2021 12:33:35 UTC] PHP Notice:  Undefined index: email in /home/certnet45/public_html/restro/admin/api/login_api.php on line 4
+[10-Feb-2021 05:30:03 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:05 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:06 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:08 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:11 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:15 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:31 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:33 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:35 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:37 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:30:40 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:17 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:21 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:23 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:35 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:38 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:43 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:46 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:47 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:48 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:51 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:31:52 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:06 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:07 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:40 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:41 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:42 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:43 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:56 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:57 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:58 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:32:59 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:34:44 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:34:50 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:36:23 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
+[10-Feb-2021 05:36:39 UTC] PHP Notice:  Undefined index: table_id in /home/certnet45/public_html/restro/admin/api/cart_api.php on line 6
